@@ -1,0 +1,19 @@
+body{
+    background-color: #000f19;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui;
+    font-size: min(200%, 5vmin);
+    color: white;
+}
+article{
+    background: linear-gradient(to right);
+}
+nav li{
+    display: flex;
+    margin-left: 50%;
+    
+}
